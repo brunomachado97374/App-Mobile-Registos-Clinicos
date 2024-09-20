@@ -1,1 +1,1 @@
-# App-Mobile-Registos-Clinicos
+# Aplicação Mobile de Monotorização Oncológica
